@@ -1,0 +1,819 @@
+@media (max-width: 575.98px) {
+    br{
+        display:none;
+    }
+    .navbar{
+        height: auto;
+    }
+    .navbar-toggler{
+        background-color: #ffffff!important;
+        margin-right: 20px!important;
+    }
+    #navbar_logo{
+        padding: 20px;
+        width: 120px;
+    }
+    #nav_link_padding1{
+        padding-left: 20px;
+    }
+    #nav_link_padding2{
+        padding-left: 20px;
+    }
+    #nav_link_padding3{
+        padding-left: 20px;
+    }
+    #nav_link_padding4{
+        padding-left: 20px;
+    }
+    #nav_link_padding5{
+        padding-left: 20px;
+    }
+    #navbar_search_logo{
+      padding: 10px 20px;
+    }
+    #banner{
+        height: auto;
+        text-align: center;
+    }
+    #banner_head1{
+        padding-top: 80px;
+        padding-left: 0px;
+        font-size: 80px;
+        line-height: 1;
+    }
+    #banner_para{
+        font-size: 29.72px;
+        padding-left: 0px;
+        padding-top: 39px;
+    }
+    #banner_button{
+        font-size: 24px;
+        margin: 20px 0;
+       width: 193px;
+       font-size: 16px;
+    }
+    #dance{
+        height: auto;
+    }
+    #dance_head{
+        font-size: 50px;
+    }
+    #dance_card1{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card2{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card3{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    .card-text{
+        padding-bottom: 20px;
+    }
+    #price{
+        height: auto;
+    }
+    #price_button{
+        width: 200px;
+        margin-bottom: 20px;
+    }
+    #price_card_unique1{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique2{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique3{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .price_btn{
+        margin-bottom: 20px!important;
+    }
+    #price_head{
+        font-size: 50px;
+    }
+    #amazing{
+        flex-direction: column;
+    }
+    #amazing_img1{
+        width: 100%;
+        height: 450px;
+    }
+    #amazing_img1 img{
+        width: 100%;
+        height: 100%;
+    }
+    #amazing_text1{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    .amazing_head{
+        padding-left: 0;
+        font-size: 41px;
+        padding-top: 100px;
+    }
+    
+    #amazing_para{
+        padding-left: 0;
+    }
+    #amazing_button{
+        margin-left: 0;
+        margin-bottom: 20px;
+        width: 200px;
+        font-size: 25px;
+    }
+    #amazing1{
+        flex-direction: column;
+    }
+    #amazing_img2{
+        width: 100%;
+        height: 950px;
+    }
+    #amazing_img2 img{
+        width: 100%;
+        height: 100%;
+    }
+    #amazing_text2{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    #statistics{
+        height: auto;
+    }
+    #statistics_head{
+        font-size: 50px;
+        padding: 60px 0 30px 0;
+        line-height: 1;
+    }
+    #statistics_main_box {
+        padding-top: 100px;
+    }
+    #statistics_head1{
+        padding: 0;
+    }
+    #statistics_head2{
+        padding-bottom: 40px;
+        padding-left: 0;
+    }
+    #statistics_head3{
+        padding-right: 0px;
+    }
+    #statistics_head4{
+      padding-bottom: 40px;
+      padding-right: 0;
+    }
+    #statistics_head5{
+        padding: 0px;
+    }
+    #statistics_head6{
+        padding: 0 0 40px 0;
+    }
+    #statistics_col{
+        text-align: center;
+    }
+    #herbert{
+        height: auto;
+    }
+    #herbert_para{
+        font-size: 30px;
+        padding-top: 100px;
+    }
+    #herbert_head{
+        font-size: 50px;
+        padding-bottom: 100px;
+    }
+    #email{
+       height: auto;
+    }
+    #email_head{
+        font-size: 41px;
+        padding-top: 80px;
+    }
+    #email_para{
+        font-size: 29.72px;
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    #email input{
+        width: 231px;
+        height: 38px;
+        padding: 22px 12px;
+        font-size: 21px;
+        margin-bottom: 120px;
+    }
+    #email button{
+        height: 47px;
+        width: 103px;
+        font-size: 16px;
+    }
+    #footer{
+        height: auto;
+        text-align: center;
+    }
+    .footer_para1{
+        padding-left: 0px;
+    }
+    #footer_para{
+        padding-left: 0px;
+    }
+    #facebook{
+       padding-left: 0px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    br{
+        display: none;
+    }
+    .navbar{
+        height: auto;
+    }
+    .navbar-toggler{
+        background-color: #ffffff!important;
+        margin-right: 20px!important;
+    }
+    #navbar_logo{
+        padding: 20px;
+        width: 120px;
+    }
+    #nav_link_padding1{
+        padding-left: 20px;
+    }
+    #nav_link_padding2{
+        padding-left: 20px;
+    }
+    #nav_link_padding3{
+        padding-left: 20px;
+    }
+    #nav_link_padding4{
+        padding-left: 20px;
+    }
+    #nav_link_padding5{
+        padding-left: 20px;
+    }
+    #navbar_search_logo{
+      padding: 10px 20px;
+    }
+    #banner{
+        height: auto;
+        text-align: center;
+    }
+    #banner_head1{
+        padding-top: 80px;
+        padding-left: 0px;
+        font-size: 80px;
+        line-height: 1;
+    }
+    #banner_para{
+        font-size: 29.72px;
+        padding-left: 0px;
+        padding-top: 39px;
+    }
+    #banner_button{
+        font-size: 24px;
+        margin: 20px 0;
+        padding: 16px 52px;
+    }
+    #dance{
+        height: auto;
+    }
+    #dance_head{
+        font-size: 50px;
+    }
+    #dance_card1{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card2{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card3{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    .card-text{
+        padding-bottom: 20px;
+    }
+    #price{
+        height: auto;
+    }
+    #price_button{
+        width: 200px;
+        margin-bottom: 20px;
+    }
+    #price_card_unique1{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique2{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique3{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .price_btn{
+        margin-bottom: 20px!important;
+    }
+    #price_head{
+        font-size: 50px;
+    }
+    #amazing{
+        flex-direction: column;
+    }
+    #amazing_img1{
+        width: 100%;
+        height: 950px;
+    }
+    #amazing_img1 img{
+        width: 100%;
+        height: 100%;
+    }
+    #amazing_text1{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    .amazing_head{
+        padding-left: 0;
+        font-size: 41px;
+    }
+    
+    #amazing_para{
+        padding-left: 0;
+    }
+    #amazing_button{
+        margin-left: 0;
+        margin-bottom: 20px;
+        width: 200px;
+        font-size: 26px;
+    }
+    #amazing1{
+        flex-direction: column;
+    }
+    #amazing_img2{
+        width: 100%;
+        height: 950px;
+    }
+    #amazing_img2 img{
+        width: 100%;
+        height: 100%;
+    }
+    #amazing_text2{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    #statistics{
+        height: auto;
+    }
+    #statistics_head{
+        font-size: 50px;
+        padding: 60px 0 30px 0;
+        line-height: 1;
+    }
+    #statistics_main_box {
+        padding-top: 100px;
+    }
+    #statistics_head1{
+        padding: 0;
+    }
+    #statistics_head2{
+        padding-bottom: 40px;
+        padding-left: 0;
+    }
+    #statistics_head3{
+        padding-right: 0px;
+    }
+    #statistics_head4{
+      padding-bottom: 40px;
+      padding-right: 0;
+    }
+    #statistics_head5{
+        padding: 0px;
+    }
+    #statistics_head6{
+        padding: 0 0 40px 0;
+    }
+    #statistics_col{
+        text-align: center;
+    }
+    #herbert{
+        height: auto;
+    }
+    #herbert_para{
+        font-size: 30px;
+        padding-top: 100px;
+    }
+    #herbert_head{
+        font-size: 50px;
+        padding-bottom: 100px;
+    }
+    #email{
+       height: auto;
+    }
+    #email_head{
+        font-size: 41px;
+        padding-top: 80px;
+    }
+    #email_para{
+        font-size: 29.72px;
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    #email input{
+        width: 345px;
+        height: 55px;
+        padding: 22px 12px;
+        font-size: 21px;
+        margin-bottom: 120px;
+    }
+    #email button{
+        height: 58px;
+        width: 103px;
+        font-size: 16px;
+    }
+    #footer{
+        height: auto;
+        text-align: center;
+    }
+    .footer_para1{
+        padding-left: 0px;
+    }
+    #footer_para{
+        padding-left: 0px;
+    }
+    #facebook{
+       padding-left: 0px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    br{
+        display: none;
+    }
+    .navbar{
+        height: auto;
+    }
+    .navbar-toggler{
+        background-color: #ffffff!important;
+        margin-right: 20px!important;
+    }
+    #navbar_logo{
+        padding: 20px;
+        width: 120px;
+    }
+    #nav_link_padding1{
+        padding-left: 20px;
+    }
+    #nav_link_padding2{
+        padding-left: 20px;
+    }
+    #nav_link_padding3{
+        padding-left: 20px;
+    }
+    #nav_link_padding4{
+        padding-left: 20px;
+    }
+    #nav_link_padding5{
+        padding-left: 20px;
+    }
+    #navbar_search_logo{
+      padding: 10px 20px;
+    }
+    #banner{
+        height: auto;
+        text-align: center;
+    }
+    #banner_head1{
+        padding-top: 80px;
+        padding-left: 0px;
+        line-height: 1;
+    }
+    #banner_para{
+        padding-left: 0px;
+        padding-top: 39px;
+    }
+    #banner_button{
+        margin: 20px 0;
+        padding: 16px 52px;
+        font-size: 24px;
+    }
+    #dance{
+        height: auto;
+    }
+    #dance_card1{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card2{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card3{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    .card-text{
+        padding-bottom: 20px;
+    }
+    #price{
+        height: auto;
+    }
+    #price_button{
+        margin-bottom: 20px;
+    }
+    #price_card_unique1{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique2{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique3{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .price_btn{
+        margin-bottom: 20px!important;
+    }
+    #amazing{
+        flex-direction: column;
+    }
+    #amazing_img1{
+        width: 100%;
+        height: 950px;
+    }
+    #amazing_img1 img{
+        width: 100%;
+        height: 100%;
+    }
+    #amazing_text1{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    .amazing_head{
+        padding-left: 0;
+    }
+    
+    #amazing_para{
+        padding-left: 0;
+    }
+    #amazing_button{
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #amazing1{
+        flex-direction: column;
+    }
+    #amazing_img2{
+        width: 100%;
+        height: 950px;
+    }
+    #amazing_img2 img{
+        width: 100%;
+        height: 100%;
+    }
+    #amazing_text2{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    #statistics{
+        height: auto;
+    }
+    #statistics_head{
+        padding: 60px 0 30px 0;
+        line-height: 1;
+    }
+    #statistics_main_box {
+        padding-top: 100px;
+    }
+    #statistics_head1{
+        padding: 0;
+    }
+    #statistics_head2{
+        padding-bottom: 40px;
+        padding-left: 0;
+    }
+    #statistics_head3{
+        padding-right: 0px;
+    }
+    #statistics_head4{
+      padding-bottom: 40px;
+      padding-right: 0;
+    }
+    #statistics_head5{
+        padding: 0px;
+    }
+    #statistics_head6{
+        padding: 0 0 40px 0;
+    }
+    #statistics_col{
+        text-align: center;
+    }
+    #herbert{
+        height: auto;
+    }
+    #herbert_para{
+        padding-top: 100px;
+    }
+    #herbert_head{
+        padding-bottom: 100px;
+    }
+    #email{
+       height: auto;
+    }
+    #email_head{
+        padding-top: 80px;
+    }
+    #email_para{
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    #email input{
+        height: 55px;
+        padding: 22px 12px;
+        margin-bottom: 120px;
+    }
+    #email button{
+        right: -56px;
+        height: 56px;
+    }
+    #footer{
+        height: auto;
+        text-align: center;
+    }
+    .footer_para1{
+        padding-left: 0px;
+    }
+    #footer_para{
+        padding-left: 0px;
+    }
+    #facebook{
+       padding-left: 0px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  
+    #nav_link_padding1{
+        padding-left: 0px;
+    }
+    #nav_link_padding2{
+        padding-left: 30px;
+    }
+    #nav_link_padding3{
+        padding-left: 30px;
+    }
+    #nav_link_padding4{
+        padding-left: 30px;
+    }
+    #nav_link_padding5{
+        padding-left: 30px;
+    }
+    #navbar_search_logo{
+      padding: 10px 30px;
+    }
+    .navbar-nav{
+        margin: 0 auto;
+    }
+    #navbar_logo {
+        padding-left: 45px;
+    }
+    #dance_card1{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card2{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card3{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #price_card_unique1{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique2{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique3{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .card-text{
+        padding-bottom: 20px;
+    }
+    #price_button{
+        margin-bottom: 20px;
+        width: 299px;
+    } 
+    #footer{
+        height: auto;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1450px) {
+    #navbar_logo {
+        padding-left: 9px;
+    }
+     #dance_card1{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card2{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #dance_card3{
+        margin: 20px 0px;
+        width: unset;
+        height: unset;
+    }
+    #price_card_unique1{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique2{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    #price_card_unique3{
+        width: 100%;
+        height: auto;
+        padding-top: 67px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
